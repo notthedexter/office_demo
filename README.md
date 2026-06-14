@@ -1,6 +1,7 @@
 # Office Invoice App
 
-A complete invoicing application built with Node.js, Express, TypeScript, EJS templates, and SQLite persistence using `sql.js`.
+A complete invoicing application built with Node.js, Express, TypeScript, EJS templates, and SQLite persistence using `sql.js`. 
+## This is for demonstartion pupose only. Not the production source
 
 ## Overview
 
